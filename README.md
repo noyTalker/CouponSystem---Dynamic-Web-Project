@@ -1,6 +1,7 @@
 # CouponSystem---Dynamic-Web-Project
 
 Coupon System Project - core & server side (Dynamic Web Project)
+
 This project is a coupon management system that allows companies to create coupons, customer to purchase coupons and admin to manages manages all of them.
 
 This project defines a database to store and retrieve information about customers, companies and coupons. Above the database there is an insulating layer that allowes convenient work from JAVA to SQL for DB operations.
