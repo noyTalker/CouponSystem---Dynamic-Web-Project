@@ -1,4 +1,4 @@
-# CouponSystem---Dynamic-Web-Project
+# CouponSystem-DynamicWebProject
 
 Coupon System Project - core & server side (Dynamic Web Project)
 
