@@ -12,5 +12,5 @@ There are three entry points in the system for each of its customers (admin, com
 
 Each of the customers (admin, company and customer) is exposed as a service. There are three network services that will enable integration using REST with the system.
 
-There is a UnitTest in which you can see that the system works, but first you have to pick up the Apache Derby Server for the DB.
+There is a UnitTest in which you can see that the system works, but first you have to pick up the Apache Derby Server for the DB and run the CreateTables class to create the tables in the DB.
 If you want to send a request and get a response by the URL, you need to update the Apache Debbie project and also run it. The URL is localhost:8080/CouponSystem/name of the class/name of the method. 
